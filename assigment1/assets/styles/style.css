@@ -1,0 +1,71 @@
+
+body{
+	background-color: #ebebeb;
+}
+
+#name{
+	color:white;
+
+}
+
+.container-fluid{
+	background-color:#45c0ae;
+	margin-bottom:50px;
+	box-shadow: 2px 2px 5px #888888
+}
+
+#natalia{
+	font-size:60px;
+	padding-bottom:0;
+}
+
+#garcia{
+	font-size:25px;
+	position:relative;
+	bottom:10px;
+}
+
+#graphic{
+	font-family: 'Rochester', cursive;
+	font-size:28px;
+	position:relative;
+	bottom:12px;
+	}
+
+.subtitle{
+	font-family: 'Poiret One', cursive;
+}
+
+#profile-pic{
+	width:250px;
+	float:left;
+	border: 5px solid white;
+	margin:20px;
+	box-shadow: 2px 2px 5px #888888
+}
+
+
+#handwrit{
+	border:none;
+	float:right;
+
+}
+
+.nav{
+	margin-top: 15%;
+	}
+
+
+
+}
+
+#footer{
+	padding: 3% 0 3% 0;
+	margin:auto;
+	font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+a:link, a:visited{
+		text-decoration: none;
+		color:#6d6d6d;
+	}
