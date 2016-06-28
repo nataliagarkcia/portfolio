@@ -1,71 +1,186 @@
-
-body{
-	background-color: #ebebeb;
-}
-
-#name{
-	color:white;
-
-}
-
-.container-fluid{
-	background-color:#45c0ae;
-	margin-bottom:50px;
-	box-shadow: 2px 2px 5px #888888
-}
-
-#natalia{
-	font-size:60px;
-	padding-bottom:0;
-}
-
-#garcia{
-	font-size:25px;
-	position:relative;
-	bottom:10px;
-}
-
-#graphic{
-	font-family: 'Rochester', cursive;
-	font-size:28px;
-	position:relative;
-	bottom:12px;
+	
+	header{
+			background-color:#ffffff;
+			padding:30px;
+			border-bottom:5px solid #cccccc;
+			margin-left:auto;
+			margin-right:auto;		
 	}
 
-.subtitle{
-	font-family: 'Poiret One', cursive;
-}
+	
+	#section3{
+	       color:#b8b8b4;
+	       float:right;
+	       padding-right:60px;
+	       margin-right:8%;
+	       margin-top:0.8%;
+	       font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
-#profile-pic{
-	width:250px;
-	float:left;
-	border: 5px solid white;
-	margin:20px;
-	box-shadow: 2px 2px 5px #888888
-}
+	}
 
+	#about,
+	#portfolio,
+	#contact{
+		padding:30px;
+	}
 
-#handwrit{
-	border:none;
-	float:right;
+	#my-name{
+		background-color:#4aaaa5;
+		padding:30px 20px 30px 20px;
+		margin-left:8%;
+		color:#ffffff;
+		font-size:1.5em;
+		font-family: "Georgia", Times, "Times New Roman", serif;
+		font-weight: bold;
 
-}
+	}
 
-.nav{
-	margin-top: 15%;
+	body{
+		background-image: url("http://img04.deviantart.net/ef55/i/2013/260/4/7/texture_140_by_sirius_sdz-d2btip9.jpg");
+		background-repeat: repeat-y;
+	}
+
+	#section1{
+		width:650px;
+		height:auto;
+		background-color:#ffffff;
+		margin:50px 20px 50px 130px;
+		float:left;
+		padding-bottom:2% ;
+
+		
 	}
 
 
+	.titulo{
+		color:#4aaaa5;
+		padding:30px 15px 30px 15px;
+		font-size:1.5em;
+		font-family: "Georgia", Times, "Times New Roman", serif;
+		font-weight: bold;
+		border-bottom:3px solid #dddddd;
+		margin-left:25px;
+		margin-right:25px;
+	}
+
+	#bio-pic{
+		width:190px;
+		margin-left:20px;
+		float:left;
+		margin:3.5%;
+		
+	}
+
+	.bio-text{
+		margin:3.5%;
+		color:#777777;
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		line-height: 2.0;
+	}
+
+	#section2{
+		width:270px;
+		height:auto;
+		background-color:#ffffff;
+		margin:50px;
+		float:left;
+	}
+
+	#info{
+		color:#4aaaa5;
+		padding:20px 10px 20px 15px;
+		font-size:22px;
+		border-bottom:2px solid #dddddd;
+		margin-left:25px;
+		margin-right:25px;
+		font-size:1.25em;
+		font-family: "Georgia", Times, "Times New Roman", serif;
+		font-weight: bold;
+	}
+
+	.logo{
+		height:65px;
+		width:65px;
+		margin:10px;
+		
+	}
+
+	div{
+
+		float:middle;
+		margin-bottom:50px;
+		}
+
+
+	form{
+ 		width: 400px;
+   		 padding: 15px 0  0 35px;
+		}	
+	
+	label{
+		display: inline-block;
+    	width: 200px;
+    	text-align:left;
+    	font-size:16px;
+    	color:#777777;
+    	margin-bottom:10px;
+    	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	}
+
+	input, textarea {
+    	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    	font-size:12px;
+    	padding: 7px 3px 7px 10px;
+    	width: 590px;
+   		border: 1px solid #d4d4d4;
+
+	}
+
+	#msg{
+		height:150px;
+	}
+
+	button {
+		color:#ffffff;
+		background-color:#4aaaa5;
+		border:none;
+		padding:10 30 10 30; 
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    	font-size:16px;
 
 }
 
-#footer{
-	padding: 3% 0 3% 0;
-	margin:auto;
-	font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-}
-
-a:link, a:visited{
+	a:link, a:visited{
 		text-decoration: none;
-		color:#6d6d6d;
+		color:#b8b8b4;
 	}
+
+	a:hover{
+		color:#4aaaa5;
+	}
+
+	.desings{
+		margin:3%;
+		width:285px;
+		height:auto;
+		float:left;
+		overflow:hidden;}
+
+	
+	footer{
+		background-color:#666666;
+		font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color:#c5c5bc;
+		font-size:12px;
+		text-align:center;
+		padding:35px;
+		border-top:10px solid #4aaaa5;
+		margin-left:auto;
+		margin-right:auto;
+		clear:both;
+		width:100%; 
+
+	}	
+
+  
+

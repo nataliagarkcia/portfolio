@@ -1,0 +1,82 @@
+
+body{
+	background-color: #ebebeb;
+}
+
+#name{
+	color:white;
+
+}
+
+#header{
+	background-color:#45c0ae;
+	margin-bottom:50px;
+	box-shadow: 2px 2px 5px #888888
+}
+
+#natalia{
+	font-size:60px;
+	padding-bottom:0;
+}
+
+#garcia{
+	font-size:25px;
+	position:relative;
+	bottom:10px;
+}
+
+#graphic{
+	font-family: 'Rochester', cursive;
+	font-size:28px;
+	position:relative;
+	bottom:12px;
+	}
+
+.subtitle{
+	font-family: 'Poiret One', cursive;
+}
+
+#profile-pic{
+	width:250px;
+	border: 5px solid white;
+	margin:20px;
+	box-shadow: 2px 2px 5px #888888
+}
+
+
+#handwrit{
+	border:none;
+	float:right;
+
+}
+
+.nav{
+	margin-top: 15%;
+	}
+
+
+
+a:link, a:visited{
+		text-decoration: none;
+		color:#6d6d6d;
+	}
+
+.form-control{
+	background-color:#535b58;
+	}
+
+#footer{
+	padding: 15px 0 15px 0;
+	margin-top: 50px;
+	background-color:#45c0ae;
+	font-size:10px; 
+	text-align: center;
+	}
+
+	#phones{
+		float:right;
+		}
+
+.portfolio-item {
+    margin-bottom: 25px;
+	}
