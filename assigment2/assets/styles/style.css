@@ -99,3 +99,9 @@ a:link, a:visited{
 	bottom:40px;
 }
 
+#workex{
+	position: relative;
+	bottom:110px;
+	left:90px;
+	width:120px;
+}
