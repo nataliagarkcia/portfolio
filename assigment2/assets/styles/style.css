@@ -54,6 +54,10 @@ body{
 	margin-top: 15%;
 	}
 
+.ballonSize {
+	height:200px;
+}
+
 
 
 a:link, a:visited{
@@ -76,4 +80,22 @@ a:link, a:visited{
 	#phones{
 		float:right;
 		}
+ .btn-default{
+ 	background-color:#535b58;
+ 	color:#dddddd;
+
+ }
+
+ .btn-default:hover{
+ 	background-color:#45c0ae;
+ 	
+ }
+
+.logo{
+	width:28px;
+	float:right;
+	margin:5px;
+	position:relative;
+	bottom:40px;
+}
 
