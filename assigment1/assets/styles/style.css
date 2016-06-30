@@ -186,5 +186,169 @@
 		padding-left:100px;
 	}
 
-  
+@media screen and (max-width: 980px) {
 
+
+	#section1 {
+		width: 50%;
+		position: relative;
+		right:25px;
+		margin-right:5px;
+		margin-left:13%;
+	}
+	input, textarea{
+		width:90%;
+	}
+	#section2 {
+		width: 25%;
+}
+	.logo {
+		width:20%;
+		height: auto;
+
+	}
+
+	.desings{
+		position:relative;
+		left:55px;
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+
+
+	#my-name{
+		margin-left:1%;
+		padding-left:30px;
+		padding-right:30px;
+	}
+	#section1 {
+		width: 90%;
+		position: relative;
+		right:55px;
+
+	}
+	input, textarea{
+		width:168%;
+	}
+	#section2 {
+		width: 90%;
+		position: relative;
+		right:5px;
+		bottom:50px;
+
+}
+
+	#section3{
+	
+		position:relative;
+		left:135px;
+		bottom:28px;
+	 	font-size:17px;
+	}
+	.logo {
+		width:10%;
+		height: auto;
+
+	}
+
+	.desings{
+	 width: 40%;
+	 margin-left:4.5px;
+	}
+
+	#info{
+	padding-left:0;	
+	}
+
+	.titulo{
+		padding-left:0;	
+	}
+
+}
+
+@media screen and (max-width: 640px) {
+
+
+	header{
+
+		background-color: #4aaaa5;
+		border:none;
+	}
+	#my-name{
+		text-align:center;
+		margin:0;
+		padding-left:85px;
+		padding-right:200px;
+		font-size:30px;
+			}
+	#section1 {
+		width: 92%;
+		position: relative;
+		right:55px;
+
+	}
+	input, textarea{
+		width:135%;
+	}
+	#section2 {
+		width: 91.5%;
+		position: relative;
+		right:25px;
+		bottom:50px;
+
+}
+
+	#section3{
+
+	background-color: white;
+	width: 680px;
+		position:relative;
+		top:26px;
+	 	font-size:17px;
+	 	margin-left:0;
+	 	padding-top:20px;
+	 	padding-bottom:20px;
+	 	border-bottom:5px solid #cccccc;
+
+	}
+
+	#about{
+		padding-left: 130px;
+		padding-right: 70px;
+
+	}
+
+
+	#contact{
+		padding-left:70px;
+	}
+	.logo {
+		width:10%;
+		height: auto;
+
+	}
+
+	.desings{
+	 width: 90%;
+	 position:relative;
+	 left:20px;
+	}
+
+	#info{
+	padding-left:0;	
+	}
+
+	.titulo{
+		padding-left:0;	
+		font-size:26px;
+	}
+
+	#bio-pic{
+	width:93%;
+	margin-left:20px;
+	float:left;
+	margin:3.5%;
+
+}
